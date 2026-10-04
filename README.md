@@ -1,1 +1,1 @@
-# training-app--poc-v1
+# training-app-poc-v1
